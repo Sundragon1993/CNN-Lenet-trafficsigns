@@ -1,0 +1,2 @@
+model_checkpoint_path: "trafficTest"
+all_model_checkpoint_paths: "trafficTest"
